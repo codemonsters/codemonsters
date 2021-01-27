@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-Somos Code Monsters. Nos dedicamos a la educación en programación y robótica. Aquí encontrarás tanto proyectos hechos por los chicos que participan en nuestras actividades como otros hechos por nuestro propio equipo.
+El Code Monsters nos dedicamos a la educación en programación y robótica. Aquí encontrarás tanto proyectos desarrollados por los chicos que participan en nuestras actividades como otros hechos por nuestro propio equipo.
 
 <!--
 **codemonsters/codemonsters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
